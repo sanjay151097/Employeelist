@@ -1,0 +1,16 @@
+D:\Interview projects\Employee list\Employee list\Employee list\bin\Debug\netstandard2.0\Employee list.deps.json
+D:\Interview projects\Employee list\Employee list\Employee list\bin\Debug\netstandard2.0\Employee list.dll
+D:\Interview projects\Employee list\Employee list\Employee list\bin\Debug\netstandard2.0\ref\Employee list.dll
+D:\Interview projects\Employee list\Employee list\Employee list\bin\Debug\netstandard2.0\Employee list.pdb
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.csproj.AssemblyReference.cache
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.AssemblyInfoInputs.cache
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.AssemblyInfo.cs
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.csproj.CoreCompileInputs.cache
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.dll
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\ref\Employee list.dll
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee list.pdb
+D:\Interview projects\Employee list\Employee list\Employee list\obj\Debug\netstandard2.0\Employee_detailview.xaml.g.cs
